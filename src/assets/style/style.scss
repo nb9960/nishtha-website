@@ -1,0 +1,26 @@
+$background-color: #e6ecf0;
+$link-color: #3C3C3C;
+$link-hover: #087E8B;
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+  }
+
+body { 
+    background: $background-color; 
+    position: relative;
+    padding-bottom: 6rem;
+    min-height: 100%;
+
+
+}
+
+a {
+    color: $link-color;
+
+    &:hover{
+        color:$link-hover;
+        text-decoration: none;
+    }
+}
