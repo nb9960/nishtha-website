@@ -6,7 +6,7 @@
 
         <hr>
 
-        <form action="https://formspree.io/moqpvwkq" method="POST">
+        <form action="https://formspree.io/f/mleablqz" method="POST">
             <div class="form-group">
                 <input type="email" name="_replyto" class="form-control" id="inputEmail" placeholder="Your email">
                 

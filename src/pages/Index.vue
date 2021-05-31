@@ -1,9 +1,5 @@
 <template>
   <Layout>
-
-
-  
-
     <b-card title="Hi!" class="shadow-sm">
       <hr>
       <p>
@@ -33,25 +29,25 @@
       </p>
       
       <p>
-        <strong><a href="./../files/cv_erdem_website.pdf" download>Click here for my Resume | 116 KB | PDF</a></strong
+        <strong><a href="./../files/resume.pdf" download>Click here for my Resume | PDF</a></strong
         >
       </p>
       <p>
         Let's keep in touch on
         <strong
-          ><a target="_blank" href="https://twitter.com/erdeminanc"
+          ><a target="_blank" href="https://twitter.com/nishtha9960"
             >Twitter</a
           ></strong
         >
         or
         <strong
-          ><a target="_blank" href="https://www.linkedin.com/in/erdeminanc/"
+          ><a target="_blank" href="https://www.linkedin.com/in/nishtha-bodani/"
             >Linkedin</a
           ></strong
         >
         and check my
         <strong
-          ><a target="_blank" href="https://github.com/erdeminanc"
+          ><a target="_blank" href="https://github.com/nb9960"
             >Github</a
           ></strong
         >
@@ -73,11 +69,11 @@
 
 export default {
   metaInfo: {
-    title: 'Projects'
+    title: 'About'
   },
   data(){
     return {
-      title: 'Projects' 
+      title: 'About' 
     }
   },
   created(){

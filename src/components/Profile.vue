@@ -2,24 +2,24 @@
     <div id="profile">
    
   <div class="card shadow-sm">
-              <img class="card-img-top" src="@/assets/images/cover_erdeminanc.jpg" alt="cover-photo">
-              <img class="profile-picture" src="@/assets/images/erdem_inanc_web.jpg" alt="profile-photo">
+              <img class="card-img-top" src="@/assets/images/cover.jpeg" alt="cover-photo">
+              <img class="profile-picture" src="@/assets/images/nishtha.jpeg" alt="profile-photo">
         <div class="card-body">
-            <h5 class="card-title">Erdem İnanç</h5>
-                <p class="card-text">Software Developer</p>
+            <h5 class="card-title">Nishtha Bodani</h5>
+                <p class="card-text">Student Developer</p>
                  <div class="social-bar">
-                    <a href="https://twitter.com/erdeminanc" target="_blank">
+                    <a href="https://twitter.com/nishtha9960" target="_blank">
                         <vue-fontawesome class="icon" icon="twitter" size="1.5" color="lightgray"></vue-fontawesome>
                     </a>
 
-                    <a href="https://www.linkedin.com/in/erdeminanc/" target="_blank">
+                    <a href="https://www.linkedin.com/in/nishtha-bodani/" target="_blank">
                         <vue-fontawesome class="icon" icon="linkedin" size="1.5" color="lightgray"></vue-fontawesome>
                     </a>
-                    <a href="https://github.com/erdeminanc" target="_blank">
+                    <a href="https://github.com/nb9960" target="_blank">
                         <vue-fontawesome class="icon" icon="github" size="1.5" color="lightgray"></vue-fontawesome>
                     </a>
-                    <a href="https://erdeminanc.medium.com" target="_blank">
-                        <vue-fontawesome class="icon" icon="medium" size="1.5" color="lightgray"></vue-fontawesome>
+                    <a href="https://www.instagram.com/nishtha.___/" target="_blank">
+                        <vue-fontawesome class="icon" icon="instagram" size="1.5" color="lightgray"></vue-fontawesome>
                     </a>
                 </div>
                 <hr>
