@@ -26,11 +26,11 @@ export default function (Vue, { router, head, isClient }) {
   head.meta.push(
     {
       property: 'og:image',
-      content: require('./assets/images/meta-image.jpg')
+      content: require('./assets/images/meta.jpg')
     },
     {
       property: 'og:title',
-      content: 'Erdem Inanc | Java, Android, Spring'
+      content: 'Nishtha Bodani | Portfolio'
     },
     {
       property: 'og:description',
@@ -38,7 +38,7 @@ export default function (Vue, { router, head, isClient }) {
     },
     {
       property: 'og:url',
-      content: 'https://erdeminanc.com'
+      content: 'https://nishthab.tech/'
     }
   )
 }

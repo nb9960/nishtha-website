@@ -11,11 +11,12 @@
           </li>
         </ul>
         <ul class="navbar-nav order-3">
+          
           <li class="nav-item">
             <g-link class="nav-link" to="/project/">Projects</g-link>
           </li>
           <li class="nav-item">
-            <g-link class="nav-link" to="https://erdeminanc.medium.com">Blog</g-link>
+            <g-link class="nav-link" to="/">Blog</g-link>
           </li>
           <li class="nav-item">
             <g-link class="nav-link" to="/contact/">Contact me</g-link>
@@ -42,10 +43,10 @@
     <footer>
       <p>
         Made with
-        <vue-fontawesome icon="heart" color="red" size="1"></vue-fontawesome> in Istanbul
+        <vue-fontawesome icon="coffee" color="red" size="1"></vue-fontawesome> in India
         - Powered by Vue and Gridsome
       </p>
-      <p>© 2021 <a href="https://erdeminanc.com"> Erdem Inanc </a></p>
+      <p>© 2021 <a href="https://nishthab.tech/"> Nishtha Bodani </a></p>
     </footer>
   </div>
 </template>
@@ -79,7 +80,7 @@ export default {
                 },
                 {
                 name: "twitter:url",
-                content: 'erdeminanc.com',
+                content: 'nishthab.tech',
                 },
                 {
                 name: "twitter:title",
@@ -107,7 +108,6 @@ footer {
   bottom: 0;
   left: 0;
   padding-top: 0.5rem;
-  background-color: #f8f9fa;
   text-align: center;
 }
 </style>
