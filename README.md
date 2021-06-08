@@ -1,6 +1,6 @@
-# Nishtha Bodani | Portfolio [https://www.code-inspector.com/project/23441/status/svg](https://www.code-inspector.com/project/23441/status/svg)
+# Nishtha Bodani | Portfolio  ![https://www.code-inspector.com/project/23441/status/svg](https://www.code-inspector.com/project/23441/status/svg)
 
-Source code of my website hosted at https://nishthab.tech/
+Source code of my website hosted at https://nishthab.tech/ 
 
 ## Deployment
 
