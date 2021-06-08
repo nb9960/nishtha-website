@@ -40,10 +40,10 @@
     </b-container>
 
     <!-- Footer -->
-    <footer>
+    <footer class="footer">
       <p>
         Made with
-        <vue-fontawesome icon="coffee" color="red" size="1"></vue-fontawesome> in India
+        <vue-fontawesome icon="coffee" color="brown" size="1"></vue-fontawesome> in India
         - Powered by Vue and Gridsome
       </p>
       <p>© 2021 <a href="https://nishthab.tech/"> Nishtha Bodani </a></p>
@@ -102,12 +102,15 @@ query {
 </static-query>
 
 <style lang="scss">
-footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding-top: 0.5rem;
+.footer {
+  height:110px;
+  padding: 10px 35px 10px 35px;
+  margin-top: 17px;
+  margin-bottom: 0;
+  align-items: center;
+  justify-content: center;
   text-align: center;
+  background-color: white;
+  display: absolute;
 }
 </style>
