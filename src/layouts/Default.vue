@@ -16,7 +16,7 @@
             <g-link class="nav-link" to="/project/">Projects</g-link>
           </li>
           <li class="nav-item">
-            <g-link class="nav-link" to="/">Blog</g-link>
+            <a href="https://blog.nishthab.tech" class="nav-link">Blog</a>
           </li>
           <li class="nav-item">
             <g-link class="nav-link" to="/contact/">Contact me</g-link>
